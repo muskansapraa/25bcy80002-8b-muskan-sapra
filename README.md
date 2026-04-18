@@ -247,15 +247,4 @@ Authorization: Bearer TOKEN
 * 🌐 Deployment (Render / Vercel)
 * 📱 Frontend Integration (React)
 
----
 
-## 👨‍💻 Author
-
-**Kenyi Oliver James Wilson**
-UID: 24BCY70263
-
----
-
-## ⭐ Support
-
-If you found this project helpful, please ⭐ the repository on GitHub!
